@@ -1,4 +1,4 @@
-# Olá! Bem vindo ao meu GITHUB! 
+# Olá! Bem vindo ao meu perfil no Gihub! 
 
 ### Você deve estar se perguntando porque minha foto de perfil é um desenho de um aviano, quando eu descobrir eu te aviso mas o que importa é que aqui no meu perfil você pode encontrar várias coisas de web a redes neurais então sinta-se a vontade para xeretar nos meus repositórios, se tiver alguma dificuldade com algum repositorio pode entrar em contato.  
 
