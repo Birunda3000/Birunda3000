@@ -1,6 +1,11 @@
 ## Olá! Bem vindo ao meu GITHUB! 
 
-Você deve estar se perguntando porque minha foto de perfil é um desenho de um aviano, quando eu descobrir eu te aviso mas o que importa é que aqui no meu perfil você pode encontrar várias coisas de web a redes neurais então sinta-se a vontade para xeretar nos meus repositórios
+Você deve estar se perguntando porque minha foto de perfil é um desenho de um aviano, quando eu descobrir eu te aviso mas o que importa é que aqui no meu perfil você pode encontrar várias coisas de web a redes neurais então sinta-se a vontade para xeretar nos meus repositórios.
+You must be wondering why my profile picture is a drawing of an avian, when I find out I'll let you know but what matters is that here on my profile you can find various things from web to neural networks so feel free to snoop in my repositories.
+
+
+
+
  <div>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Birunda3000&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
