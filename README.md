@@ -10,6 +10,12 @@ You must be wondering why my profile picture is a drawing of an avian, when I fi
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Birunda3000&layout=compact&langs_count=16&theme=dracula"/>
 
 </div>
+
+- 🔭 I’m currently working on two back-end projects and one data science project
+- 🌱 I’m currently learning: Graphql, Javascript, React and other things
+- 🤔 I’m looking for help with model data structures for phylogenetic systematics
+- 📫 How to reach me: https://www.linkedin.com/in/erick-s-1a643b135/
+
 <!--
 **Birunda3000/Birunda3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on two back-end projects and one data science project
@@ -17,4 +23,5 @@ You must be wondering why my profile picture is a drawing of an avian, when I fi
 - 🤔 I’m looking for help with model data structures for phylogenetic systematics
 - 💬 Ask me about ...
 - 📫 How to reach me: https://www.linkedin.com/in/erick-s-1a643b135/
---># Birunda3000
+# Birunda3000
+-->
