@@ -11,9 +11,6 @@ You must be wondering why my profile picture is a drawing of an avian, when I fi
 
 </div>
 
-- 🔭 I’m currently working on two back-end projects and one data science project
-- 🌱 I’m currently learning: Graphql, Javascript, React and other things
-- 🤔 I’m looking for help with model data structures for phylogenetic systematics
 - 📫 How to reach me: https://www.linkedin.com/in/erick-s-1a643b135/
 
 <!--
