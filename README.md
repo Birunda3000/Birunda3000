@@ -1,24 +1,42 @@
-# Olá! Bem vindo ao meu perfil no Gihub
+# Olá! Bem-vindo ao meu perfil no GitHub 🦅
 
-### Você deve estar se perguntando porque minha foto de perfil é um desenho de um aviano, quando eu descobrir eu te aviso mas o que importa é que aqui no meu perfil você pode encontrar várias coisas de web a redes neurais então sinta-se a vontade para xeretar nos meus repositórios, se tiver alguma dificuldade com algum repositorio pode entrar em contato  
+### Você deve estar se perguntando por que minha foto de perfil é um desenho de um aviano...
+Quando eu descobrir eu te aviso! Mas o que importa é que aqui você pode encontrar de tudo um pouco: de desenvolvimento web a redes neurais e sistemas distribuídos. Sinta-se à vontade para xeretar nos meus repositórios!
 
-You must be wondering why my profile picture is a drawing of an avian, when I find out I'll let you know but what matters is that here on my profile you can find various things from web to neural networks so feel free to snoop in my repositories. If you have any problems with any repository you can contact me.
+---
 
-<div>
+### 👨‍💻 Sobre mim
+* 🎓 Mestrando com foco em **Inteligência Artificial e Redes de Computadores**.
+* 🔭 Atualmente desenvolvendo serviços back-end robustos e interfaces web modernas.
+* 🔬 Pesquisador focado em Aprendizado de Representação e privacidade. 
+* 💡 Foco atual: Aplicar essas técnicas de extração de características em grafos, para a otimização e análise de **Redes de Computadores e Sistemas Distribuídos**.
 
+### 🛠️ Minhas Ferramentas e Tecnologias
+
+**Linguagens & Back-end** <br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
+**Machine Learning & Data Science** <br>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Front-end** <br>
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Birunda3000&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Birunda3000&layout=compact&langs_count=16&theme=dracula"/>
-
 </div>
 
-- 📫 How to reach me: https://www.linkedin.com/in/erick-s-1a643b135/
-
-<!--
-**Birunda3000/Birunda3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🔭 I’m currently working on two back-end projects and one data science project
-- 🌱 I’m currently learning: Graphql, Javascript, React and other things
-- 🤔 I’m looking for help with visual representations of phylogenetic relationships
-- 💬 Ask me about ...
-- 📫 How to reach me: https://www.linkedin.com/in/erick-s-1a643b135/
-# Birunda3000
--->
+### 📫 Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-s-1a643b135/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/esdn66/)
