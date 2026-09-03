@@ -27,6 +27,7 @@ Quando eu descobrir eu te aviso! Mas o que importa é que aqui você pode encont
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
 
 **Front-end** <br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -36,8 +37,8 @@ Quando eu descobrir eu te aviso! Mas o que importa é que aqui você pode encont
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="180" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=Birunda3000&show_icons=true&theme=dracula&locale=pt-br" />
-  <img height="180" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Birunda3000&layout=compact&theme=dracula" />
+  <img height="180" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=Birunda3000&show_icons=true&theme=dracula&locale=pt-br&v=1" />
+  <img height="180" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Birunda3000&layout=compact&theme=dracula&v=1" />
 </div>
 
 ### 📫 Como me encontrar
