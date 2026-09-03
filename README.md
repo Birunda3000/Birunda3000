@@ -1,13 +1,13 @@
 # Olá! Bem-vindo ao meu perfil no GitHub 🦅
 
 ### Você deve estar se perguntando por que minha foto de perfil é um desenho de um aviano...
-Quando eu descobrir eu te aviso! Mas o que importa é que aqui você pode encontrar de tudo um pouco: de desenvolvimento web a redes neurais e sistemas distribuídos. Sinta-se à vontade para xeretar nos meus repositórios!
+Quando eu descobrir eu te aviso! Mas o que importa é que aqui você pode encontrar de tudo um pouco: de desenvolvimento web a redes neurais e otimização. Sinta-se à vontade para xeretar nos meus repositórios!
 
 ---
 
 ### 👨‍💻 Sobre mim
 * 🎓 Mestrando com foco em **Inteligência Artificial e Redes de Computadores**.
-* 🔭 Atualmente desenvolvendo serviços back-end robustos e interfaces web modernas.
+* 🔭 Atualmente desenvolvendo serviços back-end e pesquisa em IA.
 * 🔬 Pesquisador focado em Aprendizado de Representação e privacidade. 
 * 💡 Foco atual: Aplicar essas técnicas de extração de características em grafos, para a otimização e análise de **Redes de Computadores e Sistemas Distribuídos**.
 
@@ -36,8 +36,8 @@ Quando eu descobrir eu te aviso! Mas o que importa é que aqui você pode encont
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Birunda3000&show_icons=true&theme=dracula&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Birunda3000&layout=compact&theme=dracula"/>
+  <img height="180" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=Birunda3000&show_icons=true&theme=dracula&locale=pt-br" />
+  <img height="180" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Birunda3000&layout=compact&theme=dracula" />
 </div>
 
 ### 📫 Como me encontrar
